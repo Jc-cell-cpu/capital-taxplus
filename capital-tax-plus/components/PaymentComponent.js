@@ -3,7 +3,7 @@ import React from 'react';
 const PaymentComponent = () => {
   return (
     <>
-<section class="mb-28 text-center">
+<section className="mb-28 text-center">
 
 <div className="container">
       <div className="card">
