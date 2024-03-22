@@ -1,7 +1,7 @@
 {
-  "name": "nextly-template",
+  "name": "capital-tax-plus",
   "version": "0.1.0",
-  "description": "Nextly Landing Page Template",
+  "description": "Capital tax plus",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -31,7 +31,7 @@
     "aos": "^2.3.4",
     "emailjs": "^4.0.3",
     "emailjs-com": "^3.2.0",
-    "next": "^13.3.1",
+    "next": "^13.5.6",
     "next-themes": "^0.2.1",
     "nodemailer": "^6.9.13",
     "react": "^18",
