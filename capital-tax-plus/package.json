@@ -8,10 +8,6 @@
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://gituhb.com/web3templates/nextly-template"
-  },
   "keywords": [
     "nextjs",
     "tailwindcss",
